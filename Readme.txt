@@ -1,3 +1,4 @@
 SAPP-PC
-90 instances are provided, 30 instances for small size, 30 instances for medium size, and 30 instances for large size.  5 different instances are provided for each combination of numbers of assets, vehicles, main depots, and scenarios. 
-For example the parameter corresponding to the first instance with 20 assets, 3 main depots, 2 backup depots, 5 vehicles and 10 scenarios is reported in folder named by ins1-20-2-3-5-10.
+
+85 instances are provided, 30 instances for small size, 30 instances for medium size, and 25 instances for large size.  
+5 different instances are provided for each combination of numbers of assets and scenarios, for example the parameter corresponding to the first instance with considering 20 assets, 5 protection centers, 5 vehicls, 3 main protection centers, and 10 scenarios are illustrated in folder 20-5-5-3-20. The parametes C, UB, V, TT, ST, EC, theta, gamma, pi, and Cap are indicated. 
